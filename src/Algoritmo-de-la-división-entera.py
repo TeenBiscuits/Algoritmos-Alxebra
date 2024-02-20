@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2024 Pablo Portas López
+#
+# SPDX-License-Identifier: MIT
+
 # Algoritmo de la división entera
 # Hay dos únicos enteros q y r que cumplen:
 #        0 ≤ r < |b| y a = bq + r

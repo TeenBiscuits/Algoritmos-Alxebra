@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2024 Pablo Portas López
+#
+# SPDX-License-Identifier: MIT
+
 """
 (Criba de Eratóstenes) Sea a un número entero mayor que 1. Si, para
 todo primo p con p ≤ √a, se tiene que p -/- a, entonces a es primo.

@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2024 Pablo Portas López
+#
+# SPDX-License-Identifier: MIT
+
 """
 Sean a, b ∈ Z son no nulos. El número d es el máximo común
 divisor de a y b si es un divisor común de a y b tal que d > 0 y, para cualquier
